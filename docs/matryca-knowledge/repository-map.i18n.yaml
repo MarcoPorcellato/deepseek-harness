@@ -1,0 +1,6 @@
+# Bilingual-pair consistency record (docs/i18n/README.md): the git blob hash of each
+# side as of the last confirmed-consistent state. Both languages carry equal authority;
+# after editing either side, bring the other along and re-record with:
+#   pnpm run verify-translation-pairing --write docs/matryca-knowledge/repository-map.md
+repository-map.md: 3861a75928d4f9b6bf045c1982b20bcc4d772bda
+repository-map.zh.md: fb6e3ba825819b580a9eb20022e2a63cdeaa511e
