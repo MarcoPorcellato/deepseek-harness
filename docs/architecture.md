@@ -1,3 +1,11 @@
+---
+type: Architecture Guide
+title: DeepSeek Harness architecture
+description: Architecture and composition model for the DeepSeek Harness repository.
+status: active
+last_verified: 2026-08-20
+---
+
 # DeepSeek Harness Architecture
 
 English | [中文](architecture.zh.md)

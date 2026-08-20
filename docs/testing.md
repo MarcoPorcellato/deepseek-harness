@@ -1,3 +1,11 @@
+---
+type: Testing Guide
+title: DeepSeek Harness testing policy
+description: Test tiers and evidence rules for the DeepSeek Harness repository.
+status: active
+last_verified: 2026-08-20
+---
+
 # Testing policy
 
 English | [中文](testing.zh.md)
