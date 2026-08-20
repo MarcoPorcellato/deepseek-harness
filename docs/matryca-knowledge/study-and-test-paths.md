@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Study and Test Paths
 
 English | [中文](study-and-test-paths.zh.md)

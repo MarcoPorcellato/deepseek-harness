@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 用户命令
 
 [English](commands.md) | 中文

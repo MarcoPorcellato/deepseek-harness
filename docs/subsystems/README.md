@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Subsystems
 
 English | [中文](README.zh.md)

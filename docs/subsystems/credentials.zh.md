@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 用户凭据
 
 [English](credentials.md) | 中文

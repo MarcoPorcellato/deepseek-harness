@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Web Access
 
 English | [中文](web.zh.md)

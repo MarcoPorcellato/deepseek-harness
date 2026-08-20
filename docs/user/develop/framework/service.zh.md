@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 服务与依赖
 
 [English](service.md) | 中文

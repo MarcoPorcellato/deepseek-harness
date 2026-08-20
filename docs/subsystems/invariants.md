@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Runtime Invariants
 
 English | [中文](invariants.zh.md)

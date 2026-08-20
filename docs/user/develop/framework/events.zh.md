@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 事件系统
 
 [English](events.md) | 中文

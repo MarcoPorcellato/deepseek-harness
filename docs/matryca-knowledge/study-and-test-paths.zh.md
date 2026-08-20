@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 学习与测试路径
 
 [English](study-and-test-paths.md) | 中文

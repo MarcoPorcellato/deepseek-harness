@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # HTTP 服务器
 
 [English](web-server.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # DeepSeek Harness Repository Map
 
 English | [中文](repository-map.zh.md)

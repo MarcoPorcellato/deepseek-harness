@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Evidence Matrix
 
 English | [中文](evidence-matrix.zh.md)

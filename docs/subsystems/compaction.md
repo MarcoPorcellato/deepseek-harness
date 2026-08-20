@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Compaction
 
 English | [中文](compaction.zh.md)

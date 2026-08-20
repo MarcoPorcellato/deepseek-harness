@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Client Modules
 
 English | [中文](client-modules.zh.md)

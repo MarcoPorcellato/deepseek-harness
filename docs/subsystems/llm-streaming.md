@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # LLM Streaming
 
 English | [中文](llm-streaming.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Web 访问
 
 [English](web.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 扩展
 
 [English](extensions.md) | 中文

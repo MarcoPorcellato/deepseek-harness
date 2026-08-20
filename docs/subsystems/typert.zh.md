@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Typert 远程调用
 
 [English](typert.md) | 中文

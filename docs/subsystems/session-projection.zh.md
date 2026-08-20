@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 会话投影
 
 [English](session-projection.md) | 中文

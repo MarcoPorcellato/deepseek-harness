@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 子系统
 
 [English](README.md) | 中文

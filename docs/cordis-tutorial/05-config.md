@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 5. Configuration
 
 English | [中文](05-config.zh.md)

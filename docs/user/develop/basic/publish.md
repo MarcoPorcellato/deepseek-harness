@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Package and install a plugin
 
 English | [中文](publish.zh.md)

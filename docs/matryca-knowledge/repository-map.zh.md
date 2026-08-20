@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # DeepSeek Harness 仓库地图
 
 [English](repository-map.md) | 中文

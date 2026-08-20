@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Storage
 
 English | [中文](storage.zh.md)

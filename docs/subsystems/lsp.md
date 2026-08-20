@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # LSP navigation
 
 English | [中文](lsp.zh.md)

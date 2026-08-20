@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Subagent
 
 English | [中文](subagent.zh.md)

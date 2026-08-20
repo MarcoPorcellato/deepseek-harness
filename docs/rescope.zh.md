@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Vendored 包改名
 
 [English](rescope.md) | 中文

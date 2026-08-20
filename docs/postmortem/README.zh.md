@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 事故复盘（postmortem）
 
 [English](README.md) | 中文

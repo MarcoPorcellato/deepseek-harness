@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 配置模型
 
 [English](providers.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Bash 执行器
 
 [English](shell.md) | 中文

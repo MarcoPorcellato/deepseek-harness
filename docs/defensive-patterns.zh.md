@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 防御性模式
 
 [English](defensive-patterns.md) | 中文

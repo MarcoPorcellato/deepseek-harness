@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Add a Web Client conversation node
 
 English | [中文](adding-a-conversation-node.zh.md)

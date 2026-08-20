@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 后台任务运行时
 
 [English](jobs.md) | 中文

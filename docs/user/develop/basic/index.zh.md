@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 第一个插件
 
 [English](index.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # LLM（大语言模型）流式输出
 
 [English](llm-streaming.md) | 中文

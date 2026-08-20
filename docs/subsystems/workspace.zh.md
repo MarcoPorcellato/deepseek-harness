@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 工作区
 
 [English](workspace.md) | 中文

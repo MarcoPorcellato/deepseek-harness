@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 术语表
 
 [English](glossary.md) | 中文
