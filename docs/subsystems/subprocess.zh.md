@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 子进程
 
 [English](subprocess.md) | 中文

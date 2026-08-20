@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 插件配置
 
 [English](config.md) | 中文

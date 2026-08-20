@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 实操手册：添加 LLM（大语言模型）适配器
 
 [English](adding-an-llm-adapter.md) | 中文

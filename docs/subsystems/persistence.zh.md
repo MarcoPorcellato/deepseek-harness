@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 会话持久化
 
 [English](persistence.md) | 中文

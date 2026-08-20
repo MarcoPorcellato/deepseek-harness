@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Durable Image Attachments
 
 English | [中文](attachment.zh.md)

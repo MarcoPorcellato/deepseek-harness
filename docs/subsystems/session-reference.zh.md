@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 会话引用
 
 [English](session-reference.md) | 中文

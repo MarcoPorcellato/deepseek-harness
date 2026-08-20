@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # LSP 导航
 
 [English](lsp.md) | 中文

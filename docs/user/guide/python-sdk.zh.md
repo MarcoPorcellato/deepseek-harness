@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Python SDK 快速上手
 
 [English](python-sdk.md) | 中文

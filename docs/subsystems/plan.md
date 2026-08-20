@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Plan Mode
 
 English | [中文](plan.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 遥测（telemetry）
 
 [English](session-telemetry.md) | 中文

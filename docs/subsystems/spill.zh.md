@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # spill 存储
 
 [English](spill.md) | 中文

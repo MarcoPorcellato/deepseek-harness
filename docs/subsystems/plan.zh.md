@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 计划模式
 
 [English](plan.md) | 中文

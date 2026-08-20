@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Vendored package rescope
 
 English | [中文](rescope.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 事故复盘（postmortem） 0002：文件系统快照工具被永久禁用
 
 [English](0002-js-expression-disabled-filesystem-tools.md) | 中文

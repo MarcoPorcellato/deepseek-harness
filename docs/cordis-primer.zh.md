@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Cordis 入门
 
 [English](cordis-primer.md) | 中文

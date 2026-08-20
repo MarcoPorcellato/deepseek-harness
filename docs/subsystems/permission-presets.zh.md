@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 权限预设
 
 [English](permission-presets.md) | 中文

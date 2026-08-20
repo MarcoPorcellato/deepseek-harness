@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Tools
 
 English | [中文](tools.zh.md)

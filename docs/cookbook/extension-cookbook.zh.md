@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 实操手册：扩展插件形态
 
 [English](extension-cookbook.md) | 中文

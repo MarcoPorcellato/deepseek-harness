@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Sessions
 
 English | [中文](session.zh.md)

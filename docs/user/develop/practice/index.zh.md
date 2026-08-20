@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 能力的三种角色设计
 
 [English](index.md) | 中文

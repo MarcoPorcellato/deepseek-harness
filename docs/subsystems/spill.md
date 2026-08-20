@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Spill Storage
 
 English | [中文](spill.zh.md)

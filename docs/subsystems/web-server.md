@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # HTTP Server
 
 English | [中文](web-server.zh.md)

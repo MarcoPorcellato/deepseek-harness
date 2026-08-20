@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 使用 Web UI
 
 [English](index.md) | 中文

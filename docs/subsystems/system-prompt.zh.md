@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 系统提示词组装
 
 [English](system-prompt.md) | 中文

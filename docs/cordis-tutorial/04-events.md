@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 4. Events
 
 English | [中文](04-events.zh.md)

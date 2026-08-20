@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Token Meter
 
 English | [中文](token-meter.zh.md)

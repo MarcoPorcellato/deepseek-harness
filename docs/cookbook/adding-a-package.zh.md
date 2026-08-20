@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 实操手册：添加 workspace 包
 
 [English](adding-a-package.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Matryca Knowledge Projection Contract
 
 English | [中文](projection-contract.zh.md)

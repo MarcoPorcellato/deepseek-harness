@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Event system
 
 English | [中文](events.zh.md)

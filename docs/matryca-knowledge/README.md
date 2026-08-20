@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # DeepSeek Harness and Matryca Knowledge
 
 English | [中文](README.zh.md)

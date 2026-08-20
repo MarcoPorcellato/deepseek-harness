@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Client 模块
 
 [English](client-modules.md) | 中文

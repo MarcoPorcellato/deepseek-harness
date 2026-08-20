@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 仅限 Session 内的 Schedule
 
 [English](schedule.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 证据矩阵
 
 [English](evidence-matrix.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 代码运行时
 
 [English](code-runtime.md) | 中文

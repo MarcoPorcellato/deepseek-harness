@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 存储
 
 [English](storage.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 进程沙箱
 
 [English](sandbox.md) | 中文

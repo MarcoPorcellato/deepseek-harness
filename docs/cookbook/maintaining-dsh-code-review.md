@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Maintaining the dsh-code-review skill
 
 English | [中文](maintaining-dsh-code-review.zh.md)

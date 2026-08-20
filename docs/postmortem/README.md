@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Post-mortems
 
 English | [中文](README.zh.md)

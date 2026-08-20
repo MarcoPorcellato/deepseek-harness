@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # LLM 适配器
 
 [English](llm-adapter.md) | 中文

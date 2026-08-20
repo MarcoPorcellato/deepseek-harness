@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Skills
 
 English | [中文](skills.zh.md)
