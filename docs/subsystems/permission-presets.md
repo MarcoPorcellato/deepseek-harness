@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Permission Presets
 
 English | [中文](permission-presets.zh.md)

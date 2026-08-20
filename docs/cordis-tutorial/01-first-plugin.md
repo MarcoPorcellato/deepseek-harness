@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 1. Your first plugin
 
 English | [中文](01-first-plugin.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Message Feedback
 
 English | [中文](feedback.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 运行时不变式
 
 [English](invariants.md) | 中文

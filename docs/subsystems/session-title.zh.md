@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 会话标题
 
 [English](session-title.md) | 中文

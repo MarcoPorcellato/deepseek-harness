@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Same-session goals
 
 English | [中文](goal.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Persistent PTY Sessions
 
 English | [中文](terminal.zh.md)

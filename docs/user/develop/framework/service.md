@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Services and dependencies
 
 English | [中文](service.zh.md)

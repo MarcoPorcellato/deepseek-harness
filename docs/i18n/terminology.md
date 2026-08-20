@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Terminology
 
 本表约定本仓库的中英术语统一译法。

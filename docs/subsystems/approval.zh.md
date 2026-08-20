@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 用户审批
 
 [English](approval.md) | 中文

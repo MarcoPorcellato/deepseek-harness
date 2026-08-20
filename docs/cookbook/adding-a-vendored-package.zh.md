@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 实操手册：添加一个 vendored 包
 
 [English](adding-a-vendored-package.md) | 中文

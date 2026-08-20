@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # User Settings
 
 English | [中文](settings.zh.md)

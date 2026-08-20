@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 压缩（compaction）
 
 [English](compaction.md) | 中文

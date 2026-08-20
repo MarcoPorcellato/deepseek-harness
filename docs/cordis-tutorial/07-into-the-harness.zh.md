@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 7. 进入 harness
 
 [English](07-into-the-harness.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 开发一个工具
 
 [English](tool.md) | 中文

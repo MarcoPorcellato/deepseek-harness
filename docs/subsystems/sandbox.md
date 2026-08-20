@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Process Sandbox
 
 English | [中文](sandbox.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 会话
 
 [English](session.md) | 中文

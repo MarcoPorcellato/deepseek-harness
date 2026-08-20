@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # User Interaction
 
 English | [中文](user-questions.zh.md)

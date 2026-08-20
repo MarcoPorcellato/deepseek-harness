@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Typert remote calls
 
 English | [中文](typert.zh.md)

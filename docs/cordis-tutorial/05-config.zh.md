@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 5. 配置
 
 [English](05-config.md) | 中文

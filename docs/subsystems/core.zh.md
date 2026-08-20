@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 核心
 
 [English](core.md) | 中文

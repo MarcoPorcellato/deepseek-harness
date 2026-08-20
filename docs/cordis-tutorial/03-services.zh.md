@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 3. 服务
 
 [English](03-services.md) | 中文

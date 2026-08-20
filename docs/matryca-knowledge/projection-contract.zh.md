@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Matryca Knowledge 投影契约
 
 [English](projection-contract.md) | 中文

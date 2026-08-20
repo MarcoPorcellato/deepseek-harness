@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Bash Executor
 
 English | [中文](shell.zh.md)

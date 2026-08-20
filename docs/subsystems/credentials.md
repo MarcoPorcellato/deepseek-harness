@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # User Credentials
 
 English | [中文](credentials.zh.md)

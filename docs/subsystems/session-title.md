@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Session Titles
 
 English | [中文](session-title.zh.md)

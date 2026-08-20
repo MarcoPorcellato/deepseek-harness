@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 2. 生命周期与 effect
 
 [English](02-lifecycle-and-effects.md) | 中文

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 文件系统
 
 [English](filesystem.md) | 中文

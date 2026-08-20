@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Defensive patterns
 
 English | [中文](defensive-patterns.zh.md)

@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Code Runtime
 
 English | [中文](code-runtime.zh.md)

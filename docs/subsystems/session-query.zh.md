@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 会话查询
 
 [English](session-query.md) | 中文

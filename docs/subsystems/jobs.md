@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Background Task Runtime
 
 English | [中文](jobs.zh.md)

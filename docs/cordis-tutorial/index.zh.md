@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Cordis 教程
 
 [English](index.md) | 中文

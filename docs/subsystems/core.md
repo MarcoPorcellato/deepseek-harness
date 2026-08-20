@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Core
 
 English | [中文](core.zh.md)

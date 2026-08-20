@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 插件与生命周期
 
 [English](index.md) | 中文

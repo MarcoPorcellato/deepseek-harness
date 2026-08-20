@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Cookbook: adding a vendored package
 
 English | [中文](adding-a-vendored-package.zh.md)

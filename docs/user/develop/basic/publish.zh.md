@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 打包与安装插件
 
 [English](publish.md) | 中文

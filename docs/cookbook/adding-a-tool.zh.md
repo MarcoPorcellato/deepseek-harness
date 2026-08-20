@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 工具编写参考
 
 [English](adding-a-tool.md) | 中文

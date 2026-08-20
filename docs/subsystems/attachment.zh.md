@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 持久图片附件
 
 [English](attachment.md) | 中文

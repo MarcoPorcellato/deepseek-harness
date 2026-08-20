@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 消息反馈
 
 [English](feedback.md) | 中文

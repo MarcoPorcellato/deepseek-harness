@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Session-local Schedule
 
 English | [中文](schedule.zh.md)

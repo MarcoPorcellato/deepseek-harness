@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Cookbook: adding a settings card
 
 English | [中文](adding-a-settings-card.zh.md)

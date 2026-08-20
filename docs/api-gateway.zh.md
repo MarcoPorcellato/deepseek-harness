@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # API Gateway
 
 [English](api-gateway.md) | 中文

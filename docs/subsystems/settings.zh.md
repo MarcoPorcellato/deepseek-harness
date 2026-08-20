@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # 用户设置
 
 [English](settings.md) | 中文

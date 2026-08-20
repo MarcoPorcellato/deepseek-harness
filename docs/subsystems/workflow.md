@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Workflow
 
 English | [中文](workflow.zh.md)

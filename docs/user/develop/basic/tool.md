@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Build a tool
 
 English | [中文](tool.zh.md)

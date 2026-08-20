@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Cookbook: 新增设置卡片
 
 [English](adding-a-settings-card.md) | 中文
