@@ -1,3 +1,11 @@
+---
+type: Development Guide
+title: DeepSeek Harness development guide
+description: Development workflow and repository conventions for DeepSeek Harness.
+status: active
+last_verified: 2026-08-20
+---
+
 # Development guide
 
 English | [中文](development.zh.md)

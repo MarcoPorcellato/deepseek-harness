@@ -1,3 +1,11 @@
+---
+type: Architecture Guide
+title: DeepSeek Harness Cordis primer
+description: Primer for the vendored plugin framework used by DeepSeek Harness.
+status: active
+last_verified: 2026-08-20
+---
+
 # Cordis Primer
 
 English | [中文](cordis-primer.zh.md)
