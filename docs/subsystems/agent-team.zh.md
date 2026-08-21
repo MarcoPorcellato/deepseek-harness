@@ -1,3 +1,6 @@
+---
+type: Document
+---
 # Agent Teams
 
 [English](agent-team.md) | 中文
