@@ -1,6 +1,6 @@
 # Bilingual-pair consistency record (docs/i18n/README.md): the git blob hash of each
 # side as of the last confirmed-consistent state. Both languages carry equal authority;
 # after editing either side, bring the other along and re-record with:
-#   pnpm run verify-translation-pairing --write docs/matryca-knowledge/README.md
-README.md: 9ebc62f08774f898a03db54da5855ed4cdaf965f
-README.zh.md: d51bf58bccebc65ecf3c1cfd79db4e8281f7f617
+#   pnpm run verify-translation-pairing --write docs/matryca-knowledge/upstream-sync.md
+upstream-sync.md: 1eee6ba9a2ab51d3d56295b6d2427375ef623a35
+upstream-sync.zh.md: e42b4c004db5f478a01e730d94c2ac6299f1777e

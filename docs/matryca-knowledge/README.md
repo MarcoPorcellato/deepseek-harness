@@ -17,6 +17,7 @@ The DeepSeek Harness repository remains the source of truth for source code, pac
 | [Study and test paths](study-and-test-paths.md) | Ordered routes from architecture to runnable behavior and evidence |
 | [Projection contract](projection-contract.md) | The allowlist, exclusions, provenance rules, and review workflow for Matryca Knowledge |
 | [Evidence matrix](evidence-matrix.md) | Test tiers, entry paths, observable outputs, and receipts worth retaining |
+| [Upstream source pin](upstream-sync.md) | Exact official release, Matryca integration ref, compatibility requirements, and rollback source |
 
 ## How to use this map
 

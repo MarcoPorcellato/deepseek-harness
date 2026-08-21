@@ -7,7 +7,7 @@ type: Document
 
 本目录是通过 Matryca Knowledge 学习 DeepSeek Harness 的导航层。
 
-DeepSeek Harness 仓库仍然是源代码、包契约、测试、示例、运行时产物和决策记录的事实来源。Matryca Knowledge 接收经过审查且保留来源信息的 Markdown 文档投影；它不替代本仓库。
+DeepSeek Harness 仓库仍然是源代码、包约定、测试、示例、运行时产物和决策记录的真源。Matryca Knowledge 接收经过审查且保留来源信息的 Markdown 文档投影；它不替代本仓库。
 
 ## 文档
 
@@ -17,10 +17,11 @@ DeepSeek Harness 仓库仍然是源代码、包契约、测试、示例、运行
 | [学习与测试路径](study-and-test-paths.md) | 从架构到可运行行为和证据的有序路线 |
 | [投影契约](projection-contract.md) | Matryca Knowledge 的允许列表、排除项、来源规则和审查流程 |
 | [证据矩阵](evidence-matrix.md) | 测试层级、入口路径、可观察输出和应保留的收据 |
+| [上游源码固定点](upstream-sync.md) | 确切官方 release、Matryca 集成 ref、兼容性要求和回滚源码 |
 
 ## 使用这张地图
 
-1. 先阅读[架构](../architecture.md)，了解插件组合、配置档案、代理循环、会话事件和能力接缝。
+1. 先阅读[架构](../architecture.md)，了解插件组合、配置档案、agent loop（智能体循环）、会话事件和能力 seam。
 2. 使用[仓库地图](repository-map.md)选择负责的包组或运行时区域。
 3. 沿着[学习与测试路径](study-and-test-paths.md)前进，直到真实入口路径产生可观察结果。
 4. 按照[投影契约](projection-contract.md)和[证据矩阵](evidence-matrix.md)记录确切的源码提交和证据。
